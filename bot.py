@@ -5,7 +5,7 @@ import aiohttp
 import json
 
 # تنظیمات
-TOKEN = '7949645373:AAHQFJAHkCJUhU6qebzV0Y25wfAzUIjZy-0'
+TOKEN = '7949645373:AAF3Xmslre5lCIHs2TvLGDB0wIah89zeCpI'
 bot = telebot.TeleBot(TOKEN)
 
 # دیکشنری برای ذخیره انتخاب‌های موقت کاربران
